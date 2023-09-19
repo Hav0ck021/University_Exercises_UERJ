@@ -5,24 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6116056f-3cae-4ddf-8afe-fb841d4ce349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_Casa/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_Casa/ExercicioPratico3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_PenDrive/Exercicio_PenDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_LojaEletro/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_LojaEletro/ExercicioPratico3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_Casa/Casa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_Casa/ExercicioPratico3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/Exercicio_PenDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_PenDrive/Exercicio_PenDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/CalcularVolumeLata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/CasosMatematicos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ConversaoDolar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/MediaAlunos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Quadrilatero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ViagemCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercicio_PenDrive/Exercicio_PenDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Exercicio_PenDrive/Exercicio_PenDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Exercicio_PenDrive/PenDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Exercicio_PenDrive/PenDrive.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +50,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hav0ck021/GitHub/University_Exercises_UERJ/Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/caiog/GitHub/University_Exercises_UERJ/Java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -84,6 +76,8 @@
       <workItem from="1693003297697" duration="3524000" />
       <workItem from="1693619323730" duration="1512000" />
       <workItem from="1693867378539" duration="645000" />
+      <workItem from="1694801460223" duration="6149000" />
+      <workItem from="1695160008842" duration="1317000" />
     </task>
     <servers />
   </component>
