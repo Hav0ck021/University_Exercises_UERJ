@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6116056f-3cae-4ddf-8afe-fb841d4ce349" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/Exercicio_PenDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_PenDrive/src/Exercicio_PenDrive/Exercicio_PenDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_PenDrive/src/Exercicio_PenDrive/PenDrive.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ULwW0wJBdIqeTbhaRaOpzpvwSP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "C:/Users/caiog/OneDrive/Documentos/GitHub/Postados/University_Exercises_UERJ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6116056f-3cae-4ddf-8afe-fb841d4ce349" name="Changes" comment="" />
+      <created>1692732197112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692732197112</updated>
+      <workItem from="1692732198223" duration="200000" />
+      <workItem from="1692732474001" duration="1019000" />
+      <workItem from="1692737643096" duration="537000" />
+      <workItem from="1693001911639" duration="407000" />
+      <workItem from="1693003297697" duration="3524000" />
+      <workItem from="1693619323730" duration="1512000" />
+      <workItem from="1693867378539" duration="645000" />
+      <workItem from="1694733665263" duration="113000" />
+      <workItem from="1695158114455" duration="562000" />
+      <workItem from="1695158690661" duration="137000" />
+      <workItem from="1695158869163" duration="156000" />
+      <workItem from="1695159123309" duration="60000" />
+      <workItem from="1695159346390" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

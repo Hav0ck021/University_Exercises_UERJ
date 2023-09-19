@@ -1,4 +1,5 @@
 package Exercicio_PenDrive;
+
 import java.util.Scanner;
 public class PenDrive {
     String marca;
@@ -77,7 +78,7 @@ public class PenDrive {
     }
 
     public void imprimirDadosPenDrive(){
-        System.out.println("PenDrive");
+        System.out.println("Exercicio_PenDrive.PenDrive");
         System.out.println("Marca        -> " + getMarca());
         System.out.println("Capacidade   -> " + getCapacidade() + "GB");
         System.out.println("Comprimento  -> " + getComprimento() + "cm") ;
