@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6116056f-3cae-4ddf-8afe-fb841d4ce349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_Casa/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_Casa/ExercicioPratico3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_PenDrive/ExercicioPratico2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ULwW0wJBdIqeTbhaRaOpzpvwSP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/hav0ck021/GitHub/University_Exercises_UERJ/Java",
+    "last_opened_file_path": "/home/caiog/GitHub/University_Exercises_UERJ/Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +67,8 @@
       <workItem from="1693001911639" duration="407000" />
       <workItem from="1693003297697" duration="3524000" />
       <workItem from="1693619323730" duration="1512000" />
+      <workItem from="1693867378539" duration="645000" />
+      <workItem from="1694801460223" duration="2437000" />
     </task>
     <servers />
   </component>
