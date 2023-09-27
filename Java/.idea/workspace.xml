@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6116056f-3cae-4ddf-8afe-fb841d4ce349" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/Exercicio_PenDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_PenDrive/src/Exercicio_PenDrive/Exercicio_PenDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio_PenDrive/PenDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_PenDrive/src/Exercicio_PenDrive/PenDrive.java" afterDir="false" />
-    </list>
+    <list default="true" id="6116056f-3cae-4ddf-8afe-fb841d4ce349" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "C:/Users/caiog/OneDrive/Documentos/GitHub/Postados/University_Exercises_UERJ",
+    "last_opened_file_path": "C:/Users/caiog/OneDrive/Documentos/GitHub/Postados/University_Exercises_UERJ/Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +72,7 @@
       <workItem from="1695158869163" duration="156000" />
       <workItem from="1695159123309" duration="60000" />
       <workItem from="1695159346390" duration="42000" />
+      <workItem from="1695751996570" duration="22000" />
     </task>
     <servers />
   </component>
