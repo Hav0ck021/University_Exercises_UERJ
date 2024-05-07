@@ -67,6 +67,11 @@ public class Aviao extends Veiculo {
     }
 
     // Método de reajuste de preço
+    public double escolherOpcao(boolean opcao, int perc) {
+        return !opcao ? reajustarPreco(perc) : 0;
+        }
+    }
+
     public double reajustarPreco(int perc){
         System.out.print("Insira o percentual para o reajuste do preço -> ");
         preco *= (1 + perc/100);

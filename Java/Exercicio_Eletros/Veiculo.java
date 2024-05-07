@@ -62,7 +62,7 @@ public class Veiculo {
         setPreco(preco);
     }
     public void imprimir(){
-        System.out.println("Qunatidade de Passageiros -> " + getNumeroPassageiros());
+        System.out.println("Quantidade de Passageiros -> " + getNumeroPassageiros());
         System.out.println("Capacidade do Tanque -> " + getCapacidadeTanque());
         System.out.println("Preço -> " + getPreco());
     }
