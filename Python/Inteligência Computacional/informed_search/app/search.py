@@ -25,7 +25,14 @@ class Problem:
     def value(self, state):
         raise NotImplementedError
 
-    # Heurística euclidiana
+    """
+    Heurística euclidiana -> a heurística em questão se baseia na 
+    distância entre a posição atual do bloco e a posição final do bloco,
+    de modo que a heurística é calculada pela raiz quadrada da soma dos
+    quadrados das diferenças entre a posição inicial (x1, y1) e posição 
+    final (x2, y2) do bloco. 
+    """
+    
     def h(state, goal):
         x1, y1, o1 = state
         x2, y2, o2 = goal
