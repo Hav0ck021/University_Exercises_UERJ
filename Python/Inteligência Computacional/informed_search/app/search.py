@@ -85,6 +85,16 @@ class Node:
     def __hash__(self):
         return hash(self.state)
 
+# Retorna a sequência de ações que são iniciadas a partir da raiz (estado inicial) até o nó (estado final).
+def solution(node):
+    if isinstance(node, list):
+        return node
+    path_back = []
+    while node:
+        path_back.append(node.state)
+        node = node.parent
+    return list(reversed(path_back))
+
 # f(n) = h(n).
 
 def best_first_graph_search(problem, f, display=False):
@@ -98,7 +108,7 @@ def best_first_graph_search(problem, f, display=False):
         if problem.goal_test(node.state):
             if display:
                 print(len(explored), "paths have been expanded and", len(frontier), "paths remain in the frontier")
-            return node
+            return solution(node)
         explored.add(tuple(node.state))
         for child in node.expand(problem):
             if child.state not in explored and child not in frontier:
@@ -113,7 +123,9 @@ def best_first_graph_search(problem, f, display=False):
 
 def astar_search(problem, h=None, display=False):
     h = memoize(h or problem.h, 'h')
-    return best_first_graph_search(problem, lambda n: n.path_cost + h(n.state, problem.goal), display)
+    node = best_first_graph_search(problem, lambda n: n.path_cost + h(n.state, problem.goal), display)
+    return solution(node) if node is not None else None
+    
 
 def recursive_best_first_search(problem, h=None):
     h = memoize(h or problem.h, 'h')

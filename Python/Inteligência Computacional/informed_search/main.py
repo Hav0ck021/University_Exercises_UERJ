@@ -121,8 +121,8 @@ problema = Problem(start, goal, graph)
 result_astar = astar_search(problema, problema.h)
 result_best_first = best_first_graph_search(problema, problema.h)
 
-print("Estado final -> ", result_astar)
-print("Solução em A* -> ", result_astar.solution())
+print("Estado final -> ", goal)
+print("Solução em A* -> ", result_astar)
 
-print("\nEstado final -> ", result_best_first)
-print("Solução em Busca Gulosa -> ", result_best_first.solution())
+print("\nEstado final -> ", goal)
+print("Solução em Busca Gulosa -> ", result_best_first)
