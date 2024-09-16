@@ -1,0 +1,6 @@
+cmake-build-debug
+.idea
+.vscode
+*.class
+Java/out/production/Java/.idea/workspace.xml
+Java/out/production/Java/.idea/inspectionProfiles/Project_Default.xml
