@@ -8,7 +8,7 @@ include_directories(Estruturas/Fila)
 
 add_executable(C__
         Estruturas/Árvore/Tree.h
-        Estruturas/Fila/Dynamic_queue.h
+        "Estruturas/Fila/Fila Dinâmica (Dynamic Queue)/Dynamic_queue.h"
         "Estruturas/�rvore Bin�ria/BinaryTree.cpp"
         Exemplos/palindromo.cpp
         Recursividade/example_1.cpp
