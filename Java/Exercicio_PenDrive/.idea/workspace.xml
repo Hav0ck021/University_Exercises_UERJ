@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3af4653-c3d2-4f19-afb4-4d7a1920ca26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exercicio_Eletros/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicio_Eletros/.idea/Exercicio_Eletros.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicio_Eletros/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicio_Eletros/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicio_Eletros/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicio_Eletros/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_ClasseAbstrata_Interfaces/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_ClasseAbstrata_Interfaces/src/Desconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_ClasseAbstrata_Interfaces/src/Eletro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_ClasseAbstrata_Interfaces/src/Geladeira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_ClasseAbstrata_Interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_ClasseAbstrata_Interfaces/src/MicroOndas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_ClasseAbstrata_Interfaces/src/Porta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_Heranca_e_Agregacao/src/Eletro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_Heranca_e_Agregacao/src/Geladeira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_Heranca_e_Agregacao/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_Heranca_e_Agregacao/src/MicroOndas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_Heranca_e_Agregacao/src/Porta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_TratativaDeErro/src/Exercicio_PenDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_TratativaDeErro/src/PenDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio_Heranca_e_Agregacao/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +48,13 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/caiog/OneDrive/Documentos/GitHub/Postados/University_Exercises_UERJ/Java/Exercicio_Eletros",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/caiog/GitHub/University_Exercises_UERJ/Java/Exercicio_TratativaDeErro",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
@@ -61,6 +74,9 @@
       <updated>1695159183475</updated>
       <workItem from="1695159184489" duration="325000" />
       <workItem from="1695752277493" duration="32000" />
+      <workItem from="1699640296150" duration="786000" />
+      <workItem from="1700239031783" duration="1794000" />
+      <workItem from="1711367274211" duration="77000" />
     </task>
     <servers />
   </component>

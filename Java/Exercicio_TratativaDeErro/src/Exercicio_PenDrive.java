@@ -1,5 +1,3 @@
-package Exercicio_PenDrive;
-
 public class Exercicio_PenDrive {
     public static void main(String[] args) {
         PenDrive pen1 = new PenDrive();

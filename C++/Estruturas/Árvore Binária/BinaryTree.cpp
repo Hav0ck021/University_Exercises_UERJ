@@ -6,14 +6,14 @@ struct tree {
     struct tree* direita;
 };
 
-tree* criarArvoreVazia (){
+tree* createTree (){
     return NULL;
 }
 
-tree* criarArvore (tree arvore; int num, tree* sae, tree* sad){
-    arvore->dado = num;
-    arvore->esquerda = sae;
-    arvore->direita = sad;
+tree* createTree (tree tr; int num, tree* sae, tree* sad){
+    tr->dado = num;
+    tr->esquerda = sae;
+    tr->direita = sad;
     return arvore;
 }
 
@@ -22,8 +22,8 @@ void imprimirArvore(){
 }
 
 int main(){
-    tree arvore = new tree;
-    criarArvore(10,criarArvoreVazia(),criarArvoreVazia());
+    tree arvore = new tree.createTree();
+    criarArvore(10,createTree(),createTree());
     printf("%d\n",arvore.dado);
     return 0;
 }

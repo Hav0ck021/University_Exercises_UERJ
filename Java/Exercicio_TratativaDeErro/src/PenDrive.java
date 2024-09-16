@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 public class PenDrive {
     String marca, modelo, unidade;
@@ -317,26 +318,47 @@ public class PenDrive {
         unidade = "";
     }
 
-    public void entradaDados(){
+    public void entradaDados() {
         Scanner dado = new Scanner(System.in);
-        System.out.print("Insira a Marca -> ");
-        setMarca(dado.nextLine());
-        System.out.print("Insira o Modelo -> ");
-        setModelo(dado.nextLine());
-        System.out.print("Insira a Capacidade -> ");
-        setCapacidade(Integer.parseInt(dado.nextLine()));
-        System.out.print("Insira a Unidade de armazenamento -> ");
-        setUnidade(dado.nextLine());
-        System.out.print("Insira o Comprimento -> ");
-        setComprimento(Double.parseDouble(dado.nextLine()));
-        System.out.print("Insira a Largura -> ");
-        setLargura(Double.parseDouble(dado.nextLine()));
-        System.out.print("Insira a Profundidade -> ");
-        setProfundidade(Double.parseDouble(dado.nextLine()));
-        System.out.print("Insira o Peso -> ");
-        setPeso(Double.parseDouble(dado.nextLine()));
-        System.out.print("Insira o Preço -> ");
-        setPreco(Double.parseDouble(dado.nextLine()));
+        boolean loopCont = true;
+
+        do {
+            try
+            {
+                System.out.print("Insira a Marca -> ");
+                setMarca(dado.nextLine());
+                System.out.print("Insira o Modelo -> ");
+                setModelo(dado.nextLine());
+                System.out.print("Insira a Capacidade -> ");
+                setCapacidade(Integer.parseInt(dado.nextLine()));
+                System.out.print("Insira a Unidade de armazenamento -> ");
+                setUnidade(dado.nextLine());
+                System.out.print("Insira o Comprimento -> ");
+                setComprimento(Double.parseDouble(dado.nextLine()));
+                System.out.print("Insira a Largura -> ");
+                setLargura(Double.parseDouble(dado.nextLine()));
+                System.out.print("Insira a Profundidade -> ");
+                setProfundidade(Double.parseDouble(dado.nextLine()));
+                System.out.print("Insira o Peso -> ");
+                setPeso(Double.parseDouble(dado.nextLine()));
+                System.out.print("Insira o Preço -> ");
+                setPreco(Double.parseDouble(dado.nextLine()));
+
+                loopCont = false;
+            }
+            catch (InputMismatchException e)
+            {
+                System.err.println("Exception: " + e);
+                dado.nextLine();
+                System.out.println("Entrada invalida, verique " +
+                                   "o tipo de dado inserido\n");
+            }
+            catch (NumberFormatException e) {
+                System.err.println("Exception: " + e);
+                System.out.println("Entrada invalida, verique " +
+                        "o tipo de dado inserido\n");
+            }
+        } while (loopCont);
     }
 
     public void imprimirDadosPenDrive(){

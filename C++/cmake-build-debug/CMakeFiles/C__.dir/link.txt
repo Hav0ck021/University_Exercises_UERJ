@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/C__.dir/Estruturas/Lista_Simples/main.cpp.o -o C__ 
